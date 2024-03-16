@@ -6,7 +6,6 @@ name: Continuous Integration
 on:
   push:
 
-jobs:
 
 # 当 workflow が行う処理
 jobs:
